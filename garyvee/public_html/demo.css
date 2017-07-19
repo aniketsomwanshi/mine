@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 19, 2017, 8:22:44 PM
+    Author     : ADITYA
+*/
+
+.fellowship {
+    margin: 10px;
+    min-height: 610px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.a,.b {
+    margin: 10px;
+    min-height: 300px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
